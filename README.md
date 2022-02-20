@@ -17,4 +17,4 @@ If you don't want to use the GUI, you can also just type function commands in th
 <h5>>🏿 get_moves() Prints out the Solution that was generated upon using solve()</h5>
 <h5>>🏿 simulation(num) The number provided is the amount of solves you want to simulate. Will return you the best solve with it's scramble, as well as the worst solve and it's scramble.</h5>
 
-<h4>>The Solver itself is based upon a CFOP (Fridrich) method of solving. It solves the Cross, does the F2L step, does a 2-look OLL, and a 2-look PLL. As for notation, basic notation used in the cubing world is used, however, a counterclockwise move can be denoted with either an apostrophe (standard way), or using the letter i (denoting i for inverse).</br></h4>
+<h4>The Solver for the entire program is based upon a CFOP (Fridrich) method of solving. It solves the Cross, does the F2L step, does a 2-look OLL, and a 2-look PLL. As for notation, basic notation used in the cubing world is used, however, a counterclockwise move can be denoted with either an apostrophe (standard way), or using the letter i (denoting i for inverse).</br></h4>
