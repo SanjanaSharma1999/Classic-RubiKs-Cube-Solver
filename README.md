@@ -1,4 +1,4 @@
-# Classic-Rubics-Cube-Solver
+# Classic-RubiKs-Cube-Solver
 <h3><strong style="color:blue;font-size:40px;font-family:serif;">Features</strong></h3>
 <p style= "font-family:Georgia;color:#000000;font-size:110%;">
 <h5>>🏻 User or program generated scrambles</h5>
